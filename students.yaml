@@ -1,0 +1,28 @@
+- name: "narasimha"
+  dob: "1996-01-01"
+  mobileNumber: 123456778
+  addresses:
+   - FlateNumber: 104
+     street: "gandhi nagar"
+     city: "hyderabad"
+     type: current
+
+   - FlateNumber: 104
+     street: "gandhi nagar"
+     city: "hyderabad"  
+     type: perm
+
+- name: "naveen"
+  dob: "1996-01-01"
+  mobileNumber: 123456778
+  addresses:
+   - FlateNumber: 104
+     street: "gandhi nagar"
+     city: "hyderabad"
+     type: current
+
+   - FlateNumber: 104
+     street: "gandhi nagar"
+     city: "hyderabad"  
+     type: perm     
+

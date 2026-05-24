@@ -1,0 +1,22 @@
+<student>
+   <fristName>Ramesh</fristName>
+   <DOB>1999-01-01</DOB>
+   <Email>info@narasimha@3325.com</Email>
+   <Address>
+     <FlateNumber>104</FlateNumber>
+     <Street>Gandhi Nagar</Street>
+     <City>Hyderabad</City>
+   </Address>
+     <Addresses>
+       <PermAddress>
+          <FlateNumber>104</FlateNumber>
+          <Street>Gandhi Nagar</Street>
+          <City>Hyderabad</City>
+       <PermAddress>
+       <CurrentAddress> 
+          <FlateNumber>104</FlateNumber>
+          <Street>Gandhi Nagar</Street>
+          <City>Hyderabad</City>
+       </CurrentAddress> 
+   </Addresses>
+</student>

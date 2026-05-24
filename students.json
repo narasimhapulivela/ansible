@@ -1,0 +1,21 @@
+{
+    "fistName": "narasimha" ,
+    "dob": "1996-01-01" ,
+    "address" : [
+        {
+            "type": "perm" ,
+            "flatNumber": 104,
+            "street": "gandhi nagar" ,
+            "city" : "Hyderabad" 
+        },
+
+        {
+             "type": "perm" ,
+            "flatNumber": 104,
+            "street": "gandhi nagar" ,
+            "city" : "Hyderabad"
+        }
+    ],
+   "skill": [ "java" , "devops" , "cloud"]
+    
+}
