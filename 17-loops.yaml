@@ -1,11 +1,12 @@
 -  name: install packages
    hosts: local
    connection: local
+   become: Yes
    tasks: 
    - name: install packages
      ansible.builtin.debug:
-      name: "{{ item }}" 
-      state: present
+       name: "{{ item }}" 
+       state: present
      loop: 
      - mysql
      - nginx
